@@ -1,0 +1,2 @@
+# JavaLN
+Java Natural Logging.

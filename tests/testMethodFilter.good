@@ -1,0 +1,6 @@
+edu.mscd.cs.javaln.MethodFilter = edu.mscd.cs.javaln.MethodFilter.main 
+edu.mscd.cs.javaln.MethodFilter main
+INFO: info
+edu.mscd.cs.javaln.MethodFilter main
+SEVERE: severe
+edu.mscd.cs.javaln.MethodFilter = dont.log.this.one 

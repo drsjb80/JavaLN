@@ -1,0 +1,34 @@
+edu.mscd.cs.javaln.JavaLN main
+INFO: edu.mscd.cs.javaln.JavaLN, level: FINEST, parent: 'java.util.logging.LogManager$RootLogger@3dac2f9c'
+edu.mscd.cs.javaln.JavaLN main
+SEVERE: this is a test
+not needed
+FINER: ENTRY
+edu.mscd.cs.javaln.JavaLN main
+FINER: ENTRY
+edu.mscd.cs.javaln.JavaLN main
+FINER: ENTRY 10
+edu.mscd.cs.javaln.JavaLN main
+FINER: ENTRY 10
+edu.mscd.cs.javaln.JavaLN main
+FINER: ENTRY
+edu.mscd.cs.javaln.JavaLN main
+FINER: ENTRY 1 one
+edu.mscd.cs.javaln.JavaLN main
+FINER: RETURN
+edu.mscd.cs.javaln.JavaLN main
+FINER: RETURN exiting
+edu.mscd.cs.javaln.JavaLN main
+FINER: THROW
+java.lang.Throwable: Throwable message
+	at edu.mscd.cs.javaln.JavaLN.main(JavaLN.java:363)
+edu.mscd.cs.javaln.JavaLN main
+SEVERE: one, level: null, parent: 'java.util.logging.LogManager$RootLogger@3dac2f9c'
+edu.mscd.cs.javaln.JavaLN main
+SEVERE: this is another test
+edu.mscd.cs.javaln.JavaLN main
+SEVERE: two, level: null, parent: 'java.util.logging.LogManager$RootLogger@3dac2f9c'
+edu.mscd.cs.javaln.JavaLN main
+SEVERE: this is a third test
+edu.mscd.cs.javaln.JavaLN main
+WARNING: java.lang.Throwable: this is a test

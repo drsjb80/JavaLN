@@ -1,0 +1,8 @@
+#! /bin/sh
+
+#Feb 3, 2013 8:05:06 AM
+
+months='(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)'
+n='[0-9]'
+
+sed -E -e "s/^$months $n?$n, $n{4} $n?$n:$n{2}:$n{2} [AP]M //"
